@@ -1,0 +1,13 @@
+.header {
+  background: rgb(232, 220, 255);
+  font-family:'Times New Roman', Times, serif
+}
+
+.menu {
+  background: rgb(231, 221, 245);
+  color: white;
+}
+
+table {
+  background: rgba(228, 221, 221, 0.822);
+}
